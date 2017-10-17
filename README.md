@@ -1,5 +1,5 @@
 ## docker kbase service 
-	deploy kbase service with docker
+	deploy kbase service with docker based on tomcat6, jdk6
 
 ### How to use
 1. git pull docker-kbase
